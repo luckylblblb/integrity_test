@@ -37,3 +37,7 @@ integrity version 2.5: https://drive.google.com/file/d/1sYN9WFIIuw3QrWlW-Wpw2-oz
 integrity version 2.6: https://drive.google.com/file/d/1ehux9XYQAjZtVhMcT5FAg0f_SFfjCNCW/view?usp=sharing
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+integrity version 2.7: https://drive.google.com/file/d/1aX4PXmwXqxXbhl6t55J4IizVzP5RUBNu/view?usp=sharing
+
+------------------------------------------------------------------------------------------------------------------------------------------
